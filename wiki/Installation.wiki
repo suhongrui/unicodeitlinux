@@ -5,20 +5,18 @@
 
 Assuming all requirements are installed and working properly...
 
-  # Create a work directory
+  # Fetch UnicodeItLinux source code from the subversion repository
 {{{
-mkdir workspace
-cd workspace
+svn checkout http://unicodeitlinux.googlecode.com/svn/trunk/ unicodeitlinux
+  # Move to the project directory
+{{{cd unicodeitlinux
 }}}
-  # Fetch UnicodeIt and UnicodeItLinux source code (check http://www.svenkreiss.com/UnicodeIt for the latest version of UnicodeIt library). For instance, using wget from the command line
+  # Get the latest UnicodeIt version from svenkreiss.com (check http://www.svenkreiss.com/UnicodeIt for the latest version of UnicodeIt library and replace the link below accordingly)
 {{{
-wget http://www.phyordia.com/projects/unicodeitlinux/src/unicodeitlinux_v0.1.zip
 wget http://www.svenkreiss.com/wiki/images/d/d2/unicodeIt06py.zip
 }}}
-  # Unzip and set correct permissions
+  # Set correct permissions
 {{{
-unzip unicodeitlinux_v0.1.zip -d .
-unzip UnicodeIt06py.zip -d unicodeitlinux_v0.1
 chmod +x unicodeitlinux_v0.1/unicodeitlinux.py
 }}}
   # Configure your desktop shortcut
