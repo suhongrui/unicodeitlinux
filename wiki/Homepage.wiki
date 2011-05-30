@@ -12,3 +12,5 @@ This code wraps the original tool, providing an interactive interface with it, i
   * UnicodeIt source code
   * xdotool
   * gconf-editor for Gnome keybindings (or similar for other Desktop Environments or Window Manager)
+
+Proceed to [Installation].
