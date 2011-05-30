@@ -23,6 +23,6 @@ chmod +x unicodeitlinux_v0.1/unicodeitlinux.py
 }}}
   # Configure your desktop shortcut
 Setup your keyboard shortcuts using gconf-editor or any other tool that suits your Desktop Environment,
-pointing the keybinding to the unicodeitlinux.py file (e.g. <alt>+<shift>+u).
+pointing the keybinding to the unicodeitlinux.py file (e.g. `<alt>+<shift>+u`).
 
 Learn how to [Usage UseIt]
