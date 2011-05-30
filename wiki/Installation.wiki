@@ -1,7 +1,7 @@
-#summary Installation
+#summary InstallIt
 #labels Phase-Deploy
 
-= InstallIt =
+= Installation =
 
 Assuming all requirements are installed and working properly...
 
