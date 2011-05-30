@@ -10,4 +10,4 @@ x \in (-\infty, \infty)
 {{{
 x ∈ (-∞, ∞) 
 }}}
-  # Could it be easier? Tell us how by contacting the developers!
+  # Could it be easier? Tell us how by cleaving a constructive comment!
