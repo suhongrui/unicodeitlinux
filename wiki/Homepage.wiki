@@ -13,4 +13,4 @@ This code wraps the original tool, providing an interactive interface with it, i
   * xdotool
   * gconf-editor for Gnome keybindings (or similar for other Desktop Environments or Window Manager)
 
-Proceed to [Installation].
+Proceed to [Installation] or skip to [Usage] instructions.
