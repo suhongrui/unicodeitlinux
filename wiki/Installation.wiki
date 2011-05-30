@@ -1,0 +1,32 @@
+#summary One-sentence summary of this page.
+#labels Phase-Deploy
+
+= Requirements =
+
+  * Python
+  * Gtk
+  * PyGtk
+  * UnicodeIt source code
+  * xdotool
+  * gconf-editor for Gnome keybindings (or similar for other Desktop Environments or Window Manager)
+
+= Details =
+
+Assuming all requirements are installed and working properly...
+
+  # Create a work directory
+{{{
+mkdir workspace
+cd workspace
+}}}
+  # Fetch UnicodeIt and UnicodeItLinux source code (check http://www.svenkreiss.com/UnicodeIt for the latest version of UnicodeIt library). For instance, using wget from the command line
+{{{
+wget http://www.phyordia.com/projects/unicodeitlinux/src/unicodeitlinux_v0.1.zip
+wget http://www.svenkreiss.com/wiki/images/d/d2/unicodeIt06py.zip
+}}}
+  # Unzip and set correct permissions
+{{{
+unzip unicodeitlinux_v0.1.zip -d .
+unzip UnicodeIt06py.zip -d unicodeitlinux_v0.1
+chmod +x unicodeitlinux_v0.1/unicodeitlinux.py
+}}}
