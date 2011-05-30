@@ -22,4 +22,4 @@ unzip UnicodeIt06py.zip -d unicodeitlinux_v0.1
 chmod +x unicodeitlinux_v0.1/unicodeitlinux.py
 }}}
 
-Learn how to [Installation UseIt]
+Learn how to [Usage UseIt]
