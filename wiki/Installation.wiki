@@ -1,16 +1,7 @@
-#summary One-sentence summary of this page.
+#summary Installation
 #labels Phase-Deploy
 
-= Requirements =
-
-  * Python
-  * Gtk
-  * PyGtk
-  * UnicodeIt source code
-  * xdotool
-  * gconf-editor for Gnome keybindings (or similar for other Desktop Environments or Window Manager)
-
-= Details =
+= InstallIt =
 
 Assuming all requirements are installed and working properly...
 
