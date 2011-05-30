@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+#labels Phase-Usage
+
+= UseIt =
+
+  # Write the latex symbol. e.g.:
+{{{
+x \in (-\infty, \infty)
+}}}
+  # Select it and press the shortcut you select in the installation (e.g. ALT+SHIFT+u). The selected text should be converted into: 
+{{{
+x ∈ (-∞, ∞) 
+}}}
+  # Could it be easier? Tell us how by contacting the developers!
