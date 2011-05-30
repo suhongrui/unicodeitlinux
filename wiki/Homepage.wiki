@@ -3,10 +3,3 @@
 UnicodeIt Linux is a linux port of the UnicodeIt tool,first developed by Kyle Cranmer and Sven Kreiss for MacOS.
 This code wraps the original tool, providing an interactive interface with it, in a similar manner to the MacOS implementation. A web version is also available at http://www.unicodeit.net.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
